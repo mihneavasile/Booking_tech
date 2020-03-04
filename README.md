@@ -23,7 +23,7 @@ If you want to run it from a terminal then you have to be in the project directo
 ## Part 1 
 ```
 Command structure:
-java -jar tech-0.0.1-SNAPSHOT.jar  {pickup} {drop-off} {min number of passengers (optional)} {supplier (optional)}
+java -jar tech-0.0.1-SNAPSHOT.jar {pickup} {drop-off} {min number of passengers (optional)} {supplier (optional)}
 ```
 
 ### Console application to print the search results for Dave's Taxis:

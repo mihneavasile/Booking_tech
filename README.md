@@ -1,6 +1,6 @@
-#Booking Technical Test
+# Booking Technical Test
 
-##Setup:
+## Setup:
 ```
 These are the instructions to build my code, including any dependencies:
  
@@ -20,13 +20,13 @@ If you want to run it from a terminal then you have to be in the project directo
 ```
 
 
-##Part 1 
+## Part 1 
 ```
 Command structure:
 java -jar tech-0.0.1-SNAPSHOT.jar  {pickup} {drop-off} {min number of passengers (optional)} {supplier (optional)}
 ```
 
-###Console application to print the search results for Dave's Taxis:
+### Console application to print the search results for Dave's Taxis:
 ```
 Command structure:
 java -jar tech-0.0.1-SNAPSHOT.jar {pickup} {drop-off} 0 {supplier}
@@ -44,7 +44,7 @@ but I noticed this issue too late.
 ```
 
 
-###Console application to filter by number of passengers:
+### Console application to filter by number of passengers:
 ```
 Command structure:
 java -jar tech-0.0.1-SNAPSHOT.jar {pickup} {drop-off} {number of passengers} {supplier (optional)}
@@ -59,7 +59,7 @@ java -jar tech-0.0.1-SNAPSHOT.jar 50,50 50,50 8 eric
 ```
 
 
-##Part 2:
+## Part 2:
 ```
 To start the API use: 
 java -jar tech-0.0.1-SNAPSHOT.jar
